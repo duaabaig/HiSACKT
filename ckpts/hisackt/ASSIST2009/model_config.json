@@ -1,0 +1,13 @@
+{
+    "n": 100,
+    "d": 100,
+    "num_attn_heads": 2,
+    "ha_num_heads_per_level": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "local_window": 25,
+    "dropout": 0.2
+}

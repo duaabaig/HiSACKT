@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "HiSACKT: Combining Hierarchical Self-Attention and Skill Clustering to Enhance Knowledge Tracing"
+authors:
+  - family-names: Baig
+    given-names: Duaa
+  - family-names: Nurbakova
+    given-names: Diana
+  - family-names: Mbaye
+    given-names: Baba
+  - family-names: Calabretto
+    given-names: Sylvie
+conference: "24th IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT 2025)"
+date-released: 2025-10-15
+doi: "TBA"
+license: MIT
+repository-code: "https://github.com/duaabaig/HiSACKT"
+message: "If you use this code, please cite our WI-IAT 2025 paper."

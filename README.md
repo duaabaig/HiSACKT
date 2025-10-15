@@ -8,7 +8,7 @@ Accepted at the *24th IEEE/WIC International Conference on Web Intelligence and 
 ---
 
 ## 🧠 Overview
-HiSACKT (Hierarchical Self-Attention and Skill Clustering Knowledge Tracing) enhances traditional knowledge tracing models by integrating hierarchical self-attention layers and dynamic skill clustering to capture both local and global dependencies in student learning behavior.
+HiSACKT (Hierarchical Self-Attention and Skill Clustering for Knowledge Tracing) enhances traditional knowledge tracing models by integrating hierarchical self-attention layers and dynamic skill clustering to capture both local and global dependencies in student learning behavior.
 
 ![HiSACKT Architecture](./figures/hisackt.jpg)
 

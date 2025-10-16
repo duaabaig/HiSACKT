@@ -73,7 +73,7 @@ Supported datasets: `ASSIST2009`, `Algebra2005`, `Statics2011`, `ASSIST2015`
 
 ## 🔗 Acknowledgement
 
-Data loaders and baseline implementations (DKT, DKVMN, SAKT, GKT, etc.) are adapted from  
+The baseline models (DKT, DKVMN, SAKT, GKT, etc.) are adapted from  
 [hcnoh/knowledge-tracing-collection-pytorch](https://github.com/hcnoh/knowledge-tracing-collection-pytorch) (MIT License).
 
 ---
